@@ -1,0 +1,3 @@
+maths -> 34
+science -> 89
+history -> 90
